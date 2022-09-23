@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MagicMaster1664
+- 👀 I’m interested in coding. The way a computer work is very cool for me. I like to try to change stuff in the computer and change how the computer process things.
+- 🌱 I’m currently learning C++, Java and C
+- I already know Python, and a bit of Javascript
+- 💞️ I’m looking to collaborate on some cool AI development or games
